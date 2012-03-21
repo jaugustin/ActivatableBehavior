@@ -31,7 +31,7 @@ Add the following XML tag in your `schema.xml` file:
     <parameter name="column_name" value="is_active" />
     <parameter name="default" value=true />
 </behavior>
-
+```
 
 Credits
 -------
