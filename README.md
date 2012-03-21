@@ -18,7 +18,7 @@ Installation (Symfony 2 users)
 ### b) Add the following line to your `propel.ini`
 
 ``` ini
-propel.behavior.activatable.class = path.to.activatable
+propel.behavior.activatable.class = vendor.propel-behaviors.ActivatableBehavior.src.ActivatableBehavior
 ```
 
 Usage
